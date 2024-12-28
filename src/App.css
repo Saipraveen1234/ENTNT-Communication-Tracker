@@ -1,0 +1,49 @@
+/* src/App.css */
+@import '@mui/material/styles';
+
+.app-header {
+  background-color: #ffffff;
+  border-bottom: 1px solid #e0e0e0;
+  padding: 1rem 2rem;
+}
+
+.form-container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.MuiTextField-root {
+  margin-bottom: 1rem;
+}
+
+.delete-button {
+  color: #f44336;
+}
+
+.add-button {
+  margin-top: 1rem;
+  color: #2196f3;
+}
+
+/* Custom styles for the form */
+.form-section {
+  margin-bottom: 2rem;
+}
+
+.form-section-title {
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+/* Make the form inputs look more modern */
+.MuiOutlinedInput-root {
+  border-radius: 8px;
+}
+
+/* Style for the save button */
+.save-button {
+  margin-top: 2rem;
+  padding: 0.75rem 2rem;
+  font-size: 1.1rem;
+}

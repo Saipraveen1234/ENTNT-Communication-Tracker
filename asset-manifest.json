@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ENTNT-Communication-Tracker/static/css/main.da251190.css",
+    "main.js": "/ENTNT-Communication-Tracker/static/js/main.b05ff66d.js",
+    "static/js/239.d1bd93ff.chunk.js": "/ENTNT-Communication-Tracker/static/js/239.d1bd93ff.chunk.js",
+    "static/js/213.00ce5168.chunk.js": "/ENTNT-Communication-Tracker/static/js/213.00ce5168.chunk.js",
+    "static/js/455.d65b43fa.chunk.js": "/ENTNT-Communication-Tracker/static/js/455.d65b43fa.chunk.js",
+    "index.html": "/ENTNT-Communication-Tracker/index.html",
+    "main.da251190.css.map": "/ENTNT-Communication-Tracker/static/css/main.da251190.css.map",
+    "main.b05ff66d.js.map": "/ENTNT-Communication-Tracker/static/js/main.b05ff66d.js.map",
+    "239.d1bd93ff.chunk.js.map": "/ENTNT-Communication-Tracker/static/js/239.d1bd93ff.chunk.js.map",
+    "213.00ce5168.chunk.js.map": "/ENTNT-Communication-Tracker/static/js/213.00ce5168.chunk.js.map",
+    "455.d65b43fa.chunk.js.map": "/ENTNT-Communication-Tracker/static/js/455.d65b43fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da251190.css",
+    "static/js/main.b05ff66d.js"
+  ]
+}
